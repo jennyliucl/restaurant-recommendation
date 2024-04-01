@@ -1,0 +1,11 @@
+name: restaurant_recommendation
+title:
+username:
+account: jennyliu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9166808
+bundleId: 7262074
+url: https://jennyliu.shinyapps.io/restaurant_recommendation/
+when: 1685015466.15961
+lastSyncTime: 1685015466.15962
